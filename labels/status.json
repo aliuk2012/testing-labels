@@ -1,0 +1,7 @@
+[
+  { "name": "Status: New", "color": "#005ea5" },
+  { "name": "Status: Working Group review needed", "color": "#005ea5" },
+  { "name": "Status: More research needed", "color": "#005ea5" },
+  { "name": "Status: Help wanted", "color": "#005ea5" },
+  { "name": "Status: Completed", "color": "#005ea5" }
+]
